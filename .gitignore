@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/raw/*.csv
+.DS_Store
+.env
+.streamlit/secrets.toml
+*.session.sql
+.vscode/
+models/rf_model.pkl
