@@ -2,6 +2,18 @@
 
 ## Overview
 
+### Tableau Dashboard
+
+![Tableau Dashboard](images/tableau_dashboard.png)
+
+### Streamlit Application
+
+![Streamlit Prediction App](images/streamlit_ui.png)
+
+### Streamlit Application Prediction 
+
+![Streamlit Prediction App](images/streamlit_prediction.png)
+
 An end-to-end data science project that analyzes flight operations and predicts whether a flight will arrive at least 15 minutes late.
 
 The project combines **Python, Machine Learning, PostgreSQL, SQL, Tableau, and Streamlit** to build a complete analytics and prediction system.
